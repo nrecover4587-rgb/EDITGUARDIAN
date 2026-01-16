@@ -23,11 +23,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/bot_x_worlds"),
-        InlineKeyboardButton(text="thakur", url=f"https://t.me/bot_x_worlds"),
+        InlineKeyboardButton(text="PANCHAYAT", url=f"https://t.me/+_zR_OAMZ6iE2YTBl"),
+        InlineKeyboardButton(text="thakur", url=f"https://t.me/Thakurrr_366"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/riteshcoder"),
+        InlineKeyboardButton(text="THAKUR", url=f"https://t.me/Thakurrr_366"),
     ],
     
 ]

@@ -23,8 +23,8 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/riteshcoder"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/riteshcoder"),
+        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/bot_x_worlds"),
+        InlineKeyboardButton(text="thakur", url=f"https://t.me/bot_x_worlds"),
     ],    
     [
         InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/riteshcoder"),

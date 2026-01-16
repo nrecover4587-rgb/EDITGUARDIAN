@@ -4,7 +4,7 @@ import os
 API_ID = os.environ.get("API_ID")
 API_HASH = os.environ.get("API_HASH")
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-OWNER_ID = int(os.environ.get("OWNER_ID"))
+OWNER_ID = int(os.environ.get("7018521436"))
 SUDO_ID = list(map(int, os.environ.get("SUDO_ID", "").split()))
 MONGO_URI = os.environ.get("MONGO_URI")
 DB_NAME = os.environ.get("DB_NAME")
